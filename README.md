@@ -1,10 +1,11 @@
-<!-- 
-<h1 align="center">Hi, I'm Hadeer Khaled </h1>
+<!--
+<h1 align="center">Hello everyone, I'm Menna Abdallah </h1>
 
 ## About Me :
 
-- Currently, I am an open-source applications developer at <a href="https://iti.gov.eg/iti/home" target="blank"> Information Technology Institute</a>, where I am acquiring valuable technical and soft skills.
-
+- I graduated from the Faculty of Computers and Informatics class 2023
+- Currently, I am a trainee at <a href="https://iti.gov.eg/iti/home" target="blank"> Information Technology Institute</a> Open Source Application Development Track 9-months program , where I am acquiring valuable technical and soft skills.
+<!--
 - I graduated from the Faculty of Engineering at Cairo University in 2023 with a **very good** overall grade, and an **A+** for my graduation project.
 - During my time at university, I participated with my team in the **NLP Competition at Nile University** AI Hackathon to solve a Named Entity Recognition problem, and we achieved **fourth place** out of ten teams. Moreover, I participated in the **\_VOIS Vantage 2022 Competition** - Egypt Track with two of my friends to solve real-life strategy case studies and achieved **first place** :1st_place_medal:.
 
