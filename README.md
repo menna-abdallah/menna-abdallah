@@ -1,4 +1,5 @@
 <!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E13D&background=000000&random=false&width=435&lines=%3E%3E+Hello%2C+World!)](https://git.io/typing-svg)
 <h1 align="center">Hello everyone, I'm Menna Abdallah </h1>
 
 ## About Me :
