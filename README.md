@@ -35,16 +35,16 @@
   <a href ="https://cplusplus.com/"> 
  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width = "50" height ="50">
  </a>
-  <a href ="https://en.wikipedia.org/wiki/HTML5#:~:text=HTML5%20(Hypertext%20Markup%20Language%205,Web%20Consortium%20(W3C)%20recommendation."> 
- <img src ="hhttps://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width = "50" height ="50">
+  <a href="https://en.wikipedia.org/wiki/HTML5#:~:text=HTML5%20(Hypertext%20Markup%20Language%205,Web%20Consortium%20(W3C)%20recommendation."> 
+ <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width = "50" height ="50">
  </a>
   <a href ="https://www.tutorialspoint.com/css/css3_tutorial.htm#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,Names"> 
  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width = "50" height ="50">
  </a>
-  <a href ="https://www.gnu.org/software/bash/"> 
     <a href ="https://www.java.com/en/"> 
  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width = "50" height ="50">
  </a>
+  <a href ="https://www.gnu.org/software/bash/"> 
  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width = "50" height ="50">
  </a>
   <a href ="https://angular.io/"> 
