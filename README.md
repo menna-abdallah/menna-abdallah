@@ -27,7 +27,7 @@
 </a>
 </div>
 
-## 🚀 Technologies & Tools
+## 🚀 Languages & Tools
 
 
 
