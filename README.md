@@ -11,6 +11,7 @@
 #### :ledger::pencil2:  Currently, I am a trainee at <a href="https://iti.gov.eg/iti/home" target="blank"> Information Technology Institute</a> Open Source Application Development Track 9-months program , where I am acquiring valuable technical and soft skills.
 #### I graduated from the Faculty of Computers and Informatics class 2023 with 3.68 GPA and A+ for my Graduation Project
 
+## 
 ## find me:
 
 <!--
