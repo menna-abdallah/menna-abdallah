@@ -19,6 +19,10 @@
 </a>
 <a href="https://www.linkedin.com/in/menna-a-b335711a4">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://www.hackerrank.com/profile/menna_abdallh11">
+  <img width="50" height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
+</a>
 </div>
 <!--
 - I graduated from the Faculty of Engineering at Cairo University in 2023 with a **very good** overall grade, and an **A+** for my graduation project.
