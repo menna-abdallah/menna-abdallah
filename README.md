@@ -3,13 +3,16 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E13D&background=000000&random=false&width=435&lines=%3E%3E+Hello%2C+World!)](https://git.io/typing-svg)
 <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="100"/>
-<h1 align="center">Hello everyone, I'm Menna Abdallah </h1>
+<h1 align="> I'm Menna Abdallah </h1>
 </div>
 
 ## About Me :
 ### I am passionate about software and everything related to it and committed to continuous learning. <br> I am an effective communicator with excellent interpersonal skills. I can adapt to different environments. <br> I look for new challenges to enhance my skills and contribute to organizational growth.
 #### :ledger::pencil2:  Currently, I am a trainee at <a href="https://iti.gov.eg/iti/home" target="blank"> Information Technology Institute</a> Open Source Application Development Track 9-months program , where I am acquiring valuable technical and soft skills.
 #### I graduated from the Faculty of Computers and Informatics class 2023 with 3.68 GPA and A+ for my Graduation Project
+
+## find me:
+
 <!--
 - I graduated from the Faculty of Engineering at Cairo University in 2023 with a **very good** overall grade, and an **A+** for my graduation project.
 - During my time at university, I participated with my team in the **NLP Competition at Nile University** AI Hackathon to solve a Named Entity Recognition problem, and we achieved **fourth place** out of ten teams. Moreover, I participated in the **\_VOIS Vantage 2022 Competition** - Egypt Track with two of my friends to solve real-life strategy case studies and achieved **first place** :1st_place_medal:.
