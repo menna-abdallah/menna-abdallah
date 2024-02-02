@@ -12,8 +12,14 @@
 #### I graduated from the Faculty of Computers and Informatics class 2023 with 3.68 GPA and A+ for my Graduation Project
 
 ## 
-## find me:
-
+## Find me:
+<div align ="center">
+ <a href="menna.abdallh11@gmail.com">
+  <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"/>
+</a>
+<a href="https://www.linkedin.com/in/menna-a-b335711a4">
+  <img width="50" height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</div>
 <!--
 - I graduated from the Faculty of Engineering at Cairo University in 2023 with a **very good** overall grade, and an **A+** for my graduation project.
 - During my time at university, I participated with my team in the **NLP Competition at Nile University** AI Hackathon to solve a Named Entity Recognition problem, and we achieved **fourth place** out of ten teams. Moreover, I participated in the **\_VOIS Vantage 2022 Competition** - Egypt Track with two of my friends to solve real-life strategy case studies and achieved **first place** :1st_place_medal:.
