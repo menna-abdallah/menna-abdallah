@@ -9,7 +9,7 @@
 ## About Me :
 ### I am passionate about software and everything related to it and committed to continuous learning. <br> I am an effective communicator with excellent interpersonal skills. I can adapt to different environments. <br> I look for new challenges to enhance my skills and contribute to organizational growth.
 #### :ledger::pencil2:  Currently, I am a trainee at <a href="https://iti.gov.eg/iti/home" target="blank"> Information Technology Institute</a> Open Source Application Development Track 9-months program , where I am acquiring valuable technical and soft skills.
-#### I graduated from the Faculty of Computers and Informatics class 2023 with 3.68 GPA and A+ for my Graduation Project
+#### 👨‍🎓 I graduated from the Faculty of Computers and Informatics class 2023 with 3.68 GPA and A+ for my Graduation Project
 
 ## 
 ## Find me:
