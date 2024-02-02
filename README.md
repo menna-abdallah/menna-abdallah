@@ -3,7 +3,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E13D&background=000000&random=false&width=435&lines=%3E%3E+Hello%2C+World!)](https://git.io/typing-svg)
 <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="100"/>
-<h1 align="> I'm Menna Abdallah </h1>
+<h1> I'm Menna Abdallah </h1>
 </div>
 
 ## About Me :
