@@ -23,6 +23,9 @@
 <a href="https://www.hackerrank.com/profile/menna_abdallh11">
   <img width="50" height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
 </a>
+<a href="https://leetcode.com/user2074yv/">
+  <img width="50" height="50" src="https://camo.githubusercontent.com/7c89b46de0f34cfcc4d8c7217c2359d1b1af78c72151f73f4e81b7aa127ca4c6/68747470733a2f2f692e696d6775722e636f6d2f49735335786b5a2e706e67"/>
+</a>
 </div>
 <!--
 - I graduated from the Faculty of Engineering at Cairo University in 2023 with a **very good** overall grade, and an **A+** for my graduation project.
