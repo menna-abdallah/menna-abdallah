@@ -29,6 +29,12 @@
 
 ## 🚀 Languages & Tools 
 
+  <a href ="https://en.wikipedia.org/wiki/C_(programming_language)"> 
+ <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width = "50" height ="50">
+ </a>
+  <a href ="https://cplusplus.com/"> 
+ <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width = "50" height ="50">
+ </a>
   <a href ="https://www.tutorialspoint.com/css/css3_tutorial.htm#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,Names"> 
  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width = "50" height ="50">
  </a>
@@ -38,15 +44,9 @@
   <a href ="https://angular.io/"> 
  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width = "50" height ="50">
  </a>
-  <a href ="https://angular.io/"> 
- <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width = "50" height ="50">
+  <a href ="https://www.figma.com/"> 
+ <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width = "50" height ="50">
  </a>
-  <a href ="https://angular.io/"> 
- <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width = "50" height ="50">
- </a>
-  <a href ="https://angular.io/"> 
- <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width = "50" height ="50">
- </a>
- <a href ="https://angular.io/"> 
- <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width = "50" height ="50">
+ <a href ="https://git-scm.com/"> 
+ <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width = "50" height ="50">
  </a>
