@@ -42,7 +42,7 @@
  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width = "50" height ="50">
  </a>
   <a href ="https://www.javascript.com/"> 
- <img src =" https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width = "50" height ="50">
+ <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width = "50" height ="50">
  </a>
     <a href ="https://www.java.com/en/"> 
  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width = "50" height ="50">
@@ -51,7 +51,7 @@
  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width = "50" height ="50">
  </a>
  <a href ="https://www.linux.org/"> 
- <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark" width = "50" height ="50">
+ <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width = "50" height ="50">
  </a>
   <a href ="https://www.gnu.org/software/bash/"> 
  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width = "50" height ="50">
