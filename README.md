@@ -29,6 +29,7 @@
 
 ## 🚀 Languages & Tools 
 
+<p>
   <a href ="https://en.wikipedia.org/wiki/C_(programming_language)"> 
  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width = "50" height ="50">
  </a>
@@ -68,5 +69,18 @@
   <a href ="https://github.com/"> 
  <img src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width = "50" height ="50">
  </a>
+</p>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=menna-abdallah&show_icons=true&locale=en&theme=radica" alt="menna-abdallah" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=menna-abdallah&theme=radica" alt="menna-abdallah" />
+
+<!--
+#### Visitors
+![VisitorCount](https://profile-counter.glitch.me/menna-abdallah/count.svg)
+-->
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menna-abdallah&layout=compact&theme=radical" alt="My Github Stats">
+</p>
 
 
